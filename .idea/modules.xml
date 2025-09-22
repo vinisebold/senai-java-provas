@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/logica-programacao/avaliacao-nr-1/avaliacao-nr-1.iml" filepath="$PROJECT_DIR$/logica-programacao/avaliacao-nr-1/avaliacao-nr-1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/logica-programacao/avaliacao-nr-2/avaliacao-nr-2.iml" filepath="$PROJECT_DIR$/logica-programacao/avaliacao-nr-2/avaliacao-nr-2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/senai-java-provas.iml" filepath="$PROJECT_DIR$/.idea/senai-java-provas.iml" />
+    </modules>
+  </component>
+</project>
