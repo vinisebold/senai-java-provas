@@ -2,7 +2,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 public class Agenda {
-    List<Reserva> listaReservas;
+    private List<Reserva> listaReservas;
 
     public Agenda() {
         listaReservas = new ArrayList<>();

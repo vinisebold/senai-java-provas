@@ -16,9 +16,7 @@ public class Utils {
         return LocalTime.parse(horaStr, formatter);
     }
 
-    public static Reserva instanciarReserva() {
-        Scanner sc = new Scanner(System.in);
-
+    public static Reserva instanciarReserva(Scanner sc) {
         String nomeReserva;
         LocalDate dataReserva;
         LocalTime horaReserva;

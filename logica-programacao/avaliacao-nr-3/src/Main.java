@@ -27,7 +27,7 @@ public class Main {
             sc.nextLine();
 
             switch (op) {
-                case 1 -> agenda.addReserva(Utils.instanciarReserva());
+                case 1 -> agenda.addReserva(Utils.instanciarReserva(sc));
                 case 2 -> {
                     System.out.println("\n=== REMOVER RESERVA ===");
                     System.out.print("Nome: ");
